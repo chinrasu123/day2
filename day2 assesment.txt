@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale-1.0">
+        <title>Document</title>
+</head>
+<link rel="stylesheet" href="day2.css">
+<body>
+    <style>
+        div{
+            background-color: yellow;
+            padding: 16px;
+        }
+    </style>
+    <div class="card">
+        <h1 class="heading">virat kohli</h1>
+        <h2>rcb</h2>
+        <img 
+        src="./download.png" 
+        alt="the boys">
+
+    </div>
+    <form>
+        <label for="">this is my career</label>
+        <br>
+        Name:<input type="text" /><br/>
+        Email id :<input type="email" /><br>
+        password:<input type="password"><br>
+        phone number:<input type="number">
+    </form>
+
+
+</body>
+</html>
